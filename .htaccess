@@ -7,4 +7,3 @@
 <FilesMatch "\.webm$">
     ForceType video/webm
 </FilesMatch>
-
