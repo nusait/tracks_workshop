@@ -1,0 +1,10 @@
+<FilesMatch "\.vtt$">
+    ForceType text/vtt;charset=utf-8
+</FilesMatch>
+<FilesMatch "\.mp4$">
+    ForceType video/mp4
+</FilesMatch>
+<FilesMatch "\.webm$">
+    ForceType video/webm
+</FilesMatch>
+
